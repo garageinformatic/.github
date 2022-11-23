@@ -1,2 +1,2 @@
-# .github
+# .GarageInformatic
 Bienvenidos!!
